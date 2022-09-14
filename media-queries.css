@@ -1,0 +1,65 @@
+
+/* Celulares até 4 Polegadas */
+@media (max-width: 320.98px) {
+
+
+
+}
+
+
+/* Celulares até 4,7 Polegadas */
+@media (min-width: 321.00px) and (max-width:  374.98px) { }
+
+
+
+
+
+
+
+ 
+/* Celulares até 5,5 Polegadas */
+@media (min-width: 375.00px) and (max-width:  425.98px) { 
+
+
+}
+
+
+
+
+
+
+
+
+
+/* Tablet Menor */
+@media (min-width: 426.00px) and (max-width:  768.98px) { }
+
+
+/*Tablet G */
+@media (min-width: 796.00px) and (max-width:  1023.98px) { }
+
+
+
+
+
+
+
+
+/* Laptop */
+@media (min-width: 1024.00px) and (max-width:  1399.98px) {
+	
+}
+
+
+
+
+
+
+
+
+
+/* LaptopG */
+@media (min-width: 1400.00px) and (max-width:  2559.98px) { }
+
+/* Telas Wide Screen */
+@media (min-width: 2559.00px){ }
